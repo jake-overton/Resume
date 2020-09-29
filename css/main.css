@@ -6,6 +6,11 @@ h1, h2, h3 {
   color: #66bfbf;
 }
 
+.small-caps {
+  font-family: sans-serif;
+  font-variant: small-caps;
+}
+
 hr {
   border-style: dotted none none;
   width: 5%;
@@ -57,4 +62,12 @@ a:hover {
 a:active {
   background: #265301;
   color: #CDFEAA;
+}
+
+img {
+  margin-left: 25px;
+}
+.biography {
+  margin-top: 20px;
+  margin-left: 10px;
 }
