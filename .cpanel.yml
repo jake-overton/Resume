@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/eolkctmy/public_html/jakeoverton
+    - /bin/cp -R images $DEPLOYPATH
